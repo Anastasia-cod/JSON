@@ -1,1 +1,6 @@
-
+{
+    Summary: "Edit file on web interface",
+    STR: "Github",
+    Actual result: "File was edited",
+    Expected result: "File was edited"
+}
